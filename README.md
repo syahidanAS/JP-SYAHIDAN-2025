@@ -8,9 +8,6 @@
 -IHS_TRANSACTION=https://dinkes.jakarta.go.id/apps/jp-2024/transaksi-data-satusehat.json
 
 7. php artisan serve
-8. Proyek ini menggunakan Vite untuk menjalankan Tailwindcss, silahkan ketikkan perintah: npm install dan npm run dev
-
-
 
 **MENGGUNAKAN API**
 GET Daftar RSUD yang telah di merge http://localhost:3000/api/merge-api-rsud
