@@ -1,5 +1,5 @@
 **CARA MENGGUNAKAN**
-1. git clone https://github.com/syahidanAS/JP-SYAHIDAN-PUSDATIN.git
+1. git clone https://github.com/syahidanAS/JP-SYAHIDAN-2025.git
 2. composer install
 3. Buat database baru 
 4. sesuaikan file .env
